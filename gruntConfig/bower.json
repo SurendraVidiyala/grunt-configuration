@@ -1,0 +1,23 @@
+{
+  "name": "gruntConfig",
+  "description": "sample angular examples",
+  "main": "menu.html",
+  "authors": [
+    "<surendra_vidiyala> <<vidiyala.surendra@gmail.com>>"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "angular",
+    "font-awesome",
+    "bootstrap"
+  ],
+  "homepage": "https://github.com/SurendraVidiyala/AngularJS",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
